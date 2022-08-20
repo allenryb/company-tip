@@ -2,10 +2,10 @@
 
 ### Introduction
 This package provides an informative popup that shows the docstring of the
-candidates in [company][https://github.com/company-mode/company-mode] menu.
-Unlike [company-box][https://github.com/sebastiencs/company-box],
-[company-posframe][https://github.com/tumashu/company-posframe],
-[company-quickhelp][https://github.com/company-mode/company-quickhelp],
+candidates in [company-mode](https://github.com/company-mode/company-mode) menu.
+Unlike [company-box](https://github.com/sebastiencs/company-box),
+[company-posframe](https://github.com/tumashu/company-posframe),
+[company-quickhelp](https://github.com/company-mode/company-quickhelp),
 ```company-tip``` works in terminal Emacs, as it depends on Emacs' overlay
 feature.
 
